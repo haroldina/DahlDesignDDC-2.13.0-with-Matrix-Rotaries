@@ -1,6 +1,6 @@
 # Load cell
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 A strain gauge load cell is an instrument that allows you to measure force. For game controllers it is mostly used in high quality brake pedals. This piece of metal has built in strain gauges, which essentially are resistors that change resistance based on how much they are streched and compressed. They are aligned with the surface of the metal rod, and as the rod is flexed, the resistance in the circuit will change. The load cell will output a voltage linear with the force applied to flex the rod.&#x20;
 

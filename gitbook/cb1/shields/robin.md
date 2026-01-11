@@ -24,14 +24,11 @@ This shield is named after Robin Mineur, who has brought the I2C MUX, OLED featu
 
 
 
-    This allows you to connect 10 encoders, 13 buttons, 12 multi-position switches/clutches/potentiometers, 2 funky switches and 6 I2C devices (sensors, OLED displays) to this shield. \
+    This allows you to connect 10 encoders, 13 buttons, 12 multi-position switches/clutches/potentiometers, 2 funky switches and 6 I2C devices (sensors, OLED displays) to this shield. <br>
 
+    If you need more encoders or buttons, you can mix and match with the other connectors. For instance, a 8-pin connector could also be used for 7 buttons or 3 encoders and a button. A 3-pin connector can be used for two buttons. Even the analog input connectors can be used for buttons. <br>
 
-    If you need more encoders or buttons, you can mix and match with the other connectors. For instance, a 8-pin connector could also be used for 7 buttons or 3 encoders and a button. A 3-pin connector can be used for two buttons. Even the analog input connectors can be used for buttons. \
-
-
-    You also have access to the 5V and 3.3V buses with 2-pin connectors, if you need to power anything. These can supply up to 3A and 1A, respectively. \
-
+    You also have access to the 5V and 3.3V buses with 2-pin connectors, if you need to power anything. These can supply up to 3A and 1A, respectively. <br>
 
     In addition, there are two extra USB connectors for USB devices (screens, other controller boards) and a dedicated, level shifted LED line on the CB1 board.
 
