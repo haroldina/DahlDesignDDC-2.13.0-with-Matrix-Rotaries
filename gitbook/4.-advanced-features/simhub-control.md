@@ -6,11 +6,9 @@ First you'll need to[ set up a VID/PID](../3.-coding/naming-the-controller.md) f
 
 When you've [uploaded](../3.-coding/upload.md) the firmware to your controller, you can connect to SimHub:
 
-*   Go to devices, utilities in top right corner and select "Device definition authoring tools"
+* Go to devices, utilities in top right corner and select "Device definition authoring tools"
 
-    <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
 * Select new device definition and name the device
 
